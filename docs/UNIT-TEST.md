@@ -19,3 +19,7 @@ Bir backend uygulaması geliştirilirken elbette tek fonksiyon tüm işleri kaps
 Neden en az ? Fonksiyonlarınızın spesifik durumlarda ekstradan teste tabi tutulması gerekebilir. Döngüsel karmaşıklık sayısı kadar test yazdığınızda fonksiyonunuz sağlıklı bir şekilde test edilsede, fonksiyon içerisinde bulunan spesifik bir durum beklenmedik sonuçlara neden olabilir. 
 
 **Unit testin faydalarında kod karmaşasını saptadığını yazmıştık. Bunun temelinde yine cyclomatic complexity** yatıyor. Cyclomatic complexity sizin daha insalcıl kodlar yazmasınızı sağlar. Eğer yazdığınız kodun karmaşası 10`dan küçükse bu temiz ve insancıl bir algoritmanızın olduğu anlamına gelir. Bazı geliştiriciler bu değerin 6 +- 2 olması gerektiğini düşünüyork. Yinede biraz merhamet edip 10 değerini baz aldığımızda, test yazmak (üstüne spesifik durumlarda dahil olursa) işkence haline gelecektir.
+  
+
+[Sayfa 3 - Test Tipleri](./TEST-TIPLERI.md)
+[Sayfa 5 - Integration Test](./INTEGRATION-TEST.md)

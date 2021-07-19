@@ -36,3 +36,7 @@ Yatay yaklaşımın aksine dikey yaklaşım, uygulama içerisindeki katmanların
 |Birden çok bileşeni kapsayabilir ama tüm bileşenleri kapsamaz|Test kapsamı daha geniştir ve tüm uygulamayı kapsar|
 |Birlikte çalışan bileşenler arası hataları tespit etmek için yapılır|Kullanıcı deneyimi hakkında fikir sahibi olmak için yapılır|
 |Uygulaması daha az maliyetlidir|Uygulaması daha çok maliyetlidir|
+  
+
+[Sayfa 5 - Integration Test](./INTEGRATION-TEST.md)
+[Sayfa 7 - Test Driven Development (TDD)](./TDD.md)

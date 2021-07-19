@@ -63,3 +63,7 @@ Bottom-Up yaklaşımında tüm modüller test edilene kadar, daha düşük seviy
 3. ***Kritik birimlere öncelik verilmeli:*** Test sırasında öncelik verilecek kritik birimler belirlenmelidir.
 4. ***Önce Unit Test:*** Integration testi sadece geliştirici takımı unit testleri bitirdikten sonra başlatın.
 5. ***Kritik unsurlar eksik bırakılmamalı:*** İş açısından kritik tüm unsurlar test esnasında ele alınmış olmalı.
+  
+
+[Sayfa 4 - Unit Test](./UNIT-TEST.md)
+[Sayfa 6 - e2e Test](./E2E-TEST.md)
